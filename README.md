@@ -1,6 +1,6 @@
 # SmooDi - Modern Website Template
 
-![SmooDi Logo](https://yourwebsite.com/images/logo.png)
+![SmooDi Logo](https://smoodi.pages.dev/assets/img/logo.png)
 
 SmooDi is a modern website template designed to help small businesses, such as cafes, sandwich shops, and more, establish a strong online presence. While SmooDi is not a real restaurant, it serves as an example website that showcases the endless possibilities available to promote your small business effectively.
 
@@ -18,7 +18,7 @@ With the increasing use of smartphones and tablets, it's crucial for your websit
 
 ### 3. Recipe Menu
 
-Instead of a traditional restaurant menu, SmooDi presents a unique recipe menu. Showcase your signature drinks or dishes with stunning images and detailed descriptions. This feature allows you to highlight your culinary expertise and attract food enthusiasts.
+Instead of a traditional restaurant menu, SmooDi presents a unique smoothie recipe menu. Showcase your signature smoothie creations with stunning images and detailed descriptions. This is also a great place to display your prices.
 
 ### 4. Contact Information
 
@@ -28,23 +28,15 @@ Make it easy for customers to find you. SmooDi includes a prominently displayed 
 
 Tell your story and let customers get to know the heart behind your business. Share your history, values, and mission on the "About Us" page to build trust and connect with your audience.
 
-### 6. Gallery
-
-Showcase your delectable creations and the ambiance of your establishment with a stunning image gallery. High-quality visuals can entice potential customers and leave them eager to visit.
-
-### 7. Testimonials
+### 6. Testimonials
 
 Display customer reviews and testimonials to build credibility and reassure visitors of your excellent service and delicious food.
-
-### 8. Blog
-
-Engage your audience with informative blog posts about your industry, latest news, or even behind-the-scenes insights. A blog can help establish your expertise and keep visitors coming back for more.
 
 ## Getting Started
 
 To get started with SmooDi, follow these steps:
 
-1. **Download the Template**: Download the SmooDi website template files from [here](https://yourwebsite.com/download).
+1. **Download the Template**: Download the SmooDi website template files from the [GitHub repository](https://github.com/irvMol/SmooDi).
 
 2. **Customize Content**: Replace the sample content and images with your own. Customize the text, images, and recipe menu to reflect your small business.
 
@@ -56,9 +48,10 @@ To get started with SmooDi, follow these steps:
 
 6. **Launch Your Website**: Once you've made all the necessary customizations, launch your website and start promoting your online presence.
 
-## Support and Contact
+## Repository and Website
 
-If you encounter any issues or need assistance with SmooDi, please reach out to our support team at support@yourwebsite.com. We're here to help you make the most of your online presence.
+- **GitHub Repository**: [https://github.com/irvMol/SmooDi](https://github.com/irvMol/SmooDi)
+- **Website**: [https://smoodi.pages.dev/](https://smoodi.pages.dev/)
 
 ---
 
